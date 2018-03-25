@@ -2,17 +2,13 @@
 
 > Drive comfortably
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Introduction](#introduction)
-- [Objective - Workshop in 1 sentence](#objective---workshop-in-1-sentence)
-
-
 
 ## How To Launch
 
 -Run "node server" to start the server
--Go to my-app and run "node start" to run the app
+
+-Go to my-app and run "npm start" to run the app
+
 -Click on the buttons to Search for Audi models or populate the index with Audi models.
 
 
